@@ -24,3 +24,4 @@ maxDepth = 3
 result = minimax(0, 0, True, values, maxDepth)
 
 print("The optimal value is:", result)
+
